@@ -1,0 +1,136 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.rnavbar{
+  justify-self: right;
+  list-style: none;
+  display: table;
+  text-decoration: none;
+  color: #40362D;
+  font-family: Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: -3.2px;
+  position: relative;
+}
+
+.txtlogo{
+  color: #9F7D57;
+  font-family: Helvetica;
+  font-size: 160px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 240px; /* 93.75% */
+  letter-spacing: -17.5px;
+  margin: 0px 15px;
+  
+}
+.desc{
+  color: #9F7D57;
+  font-family: Helvetica;
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 14px; /* 108.333% */
+  margin: 0px 15px;
+}
+.review{
+  color: #9F7D57;
+  font-family: Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  line-height: 12px;
+}
+
+.stats{
+  color: #9F7D57;
+  font-family: Helvetica;
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 14px;
+}
+
+
+.top{
+  display: flex;
+}
+#div1 {
+  flex: 1;
+  width: 25%;
+  margin-top: 20px;
+}
+#div2 {
+  flex: 1;
+  width: 25%;
+  margin-top: 20px;
+}
+#div3{
+  flex: 1;
+  width: 25%;
+  margin-top: 20px;
+}
+#div4{
+  flex: 1;
+  width: 25%;
+  margin-top: 20px;
+}
+
+.pricetitle{
+  color: #9F7D57;
+  font-family: Helvetica;
+  font-size: 120px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -10px;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.pricenote{
+  color: #40362D;
+  font-family: Helvetica;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -1.8px;
+  margin-left: 15px;
+}
+.prices{
+  color: #40362D;
+font-family: Helvetica;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 70px;
+letter-spacing: -1.8px;
+margin-left: 15px;
+margin-top: 15px;
+}
+.policytitle{
+  color: #9F7D57;
+  font-family: Helvetica;
+  font-size: 128px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -6.4px;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.policy{
+  color: #40362D;
+  font-family: Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -1.8px;
+  margin-top: 15px;
+  margin-left: 15px;
+}
